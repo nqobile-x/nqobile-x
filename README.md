@@ -40,7 +40,7 @@ Cloud Full-Stack Software Engineer (South Africa) with hands-on AWS and enterpri
 ##  Connect with Me
 - [GitHub](https://github.com/Nqobile-x)
 - [LinkedIn](www.linkedin.com/in/nqobile-sibiya-530657218)
-- [Portfolio]((https://nqobile-x.github.io/Nqobille/))
+- [Portfolio](https://nqobile-x.github.io/Nqobille/)
 - [Email](nqobilesibiya025@gmail.com)
 
 ---
