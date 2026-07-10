@@ -1,3 +1,5 @@
+<img width="800" height="200" alt="nqobile banner" src="https://github.com/user-attachments/assets/3a109ce7-8de9-421f-a705-5dd1e391af19" />
+
 #  Hi, I'm Nqobile Sibiya
 
 ##  About Me
