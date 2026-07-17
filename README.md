@@ -1,5 +1,5 @@
 <img width="800" height="200" alt="nqobile banner" src="https://github.com/user-attachments/assets/3a109ce7-8de9-421f-a705-5dd1e391af19" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nqobile+Sibiya;Full+Stack+Java+Developer;GeoAI+%7C+Remote+Sensing+%7C+Python;Turning+Satellite+Data+into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nqobile+Sibiya;Full+Stack+Java+Developer;" alt="Typing SVG" />
 
 #  Hi, I'm Nqobile Sibiya
 
